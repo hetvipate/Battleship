@@ -1,0 +1,25 @@
+lifelineButton=Ligne de vie
+redoButton=Refaire
+swapButton=Échanger
+sendButton=Envoyer
+toggleDirectionButton=Changer de direction
+fileMenu=Fichier
+gameMenu=Jeu
+languageMenu=Langue
+dimensionMenu=Dimension
+networkMenu=Réseau
+helpMenu=Aide
+saveMenuItem=Sauvegarder
+newMenuItem=Nouveau
+loadMenuItem=Charger
+exitMenuItem=Quitter
+resumeMenuItem=Reprendre
+pauseMenuItem=Pause
+fiveMenuItem=5X5
+tenMenuItem=10X10
+twelveMenuItem=12X12
+helpMenuItem=Aide
+eastLabel=Tour de l'utilisateur 1
+scoreName1=Utilisateur 1
+scoreName2=Utilisateur 2
+
